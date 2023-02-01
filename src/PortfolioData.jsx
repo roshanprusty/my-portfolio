@@ -1,9 +1,9 @@
-import proj1 from "images/fyp.png";
-import proj2 from "images/netflix.PNG";
-import proj3 from "images/stripe.PNG";
-import proj4 from "images/covid.png";
-import proj5 from "images/groc_bud.PNG";
-import proj6 from "images/color.PNG";
+import proj1 from "images/jobfinder.png";
+import proj2 from "images/hotstar.png";
+import proj3 from "images/imdb.png";
+import proj4 from "./images/brandbird.png";
+// import proj5 from "images/groc_bud.PNG";
+// import proj6 from "images/brandbird.PNG";
 
 
 const PortfolioData = [
@@ -13,6 +13,7 @@ const PortfolioData = [
     tagline: "Easy to find Jobs",
     liveUrl: "https://job-finder-rnp.netlify.app/",
     repositoryUrl: "https://github.com/roshanprusty/Job-Finder",
+    image:proj1,
   },
   {
     id: 2,
@@ -20,7 +21,7 @@ const PortfolioData = [
     tagline: "Hotstar Clone with React JS",
     liveUrl: "https://m-junaid95.github.io/Netflix-Clone/",
     repositoryUrl: "https://github.com/roshanprusty/Hotstar-clone",
-    image: "https://soyacincau.com/wp-content/uploads/2021/06/210601-disney-plus-hotstar-malaysia-hero-02.jpg",
+    image: proj2,
   },
   {
     id: 3,
@@ -28,7 +29,7 @@ const PortfolioData = [
     tagline: "Imdb Clone with React JS",
     liveUrl: "https://m-junaid95.github.io/Stripe-Menu/",
     repositoryUrl: "https://github.com/m-https://github.com/roshanprusty/IMDB/Stripe-Menu",
-    image: "https://cdn.discordapp.com/attachments/780837848030380112/929812133288493086/cover_image.png",
+    image: proj3,
   },
 
   {
@@ -37,7 +38,7 @@ const PortfolioData = [
     tagline: "Airbnb Experince with React JS",
     liveUrl: "https://m-junaid95.github.io/Reactjs-Covid19-Tracker/",
     repositoryUrl: "https://github.com/m-https://github.com/roshanprusty/Airbnb-Experince/Reactjs-Covid19-Tracker",
-    image: "https://www.tom.travel/wp-content/uploads/2021/03/Airbnb-Experiences.jpg",
+    image: proj4,
   },
   
   // {

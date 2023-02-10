@@ -11,7 +11,7 @@ import Home from "components/Home/Home";
 import Portfolio from "components/Portfolio/Portfolio";
 import Contact from "components/Contact/Contact";
 import Services from "components/Services/Services";
-// import Testimonials from "components/Testimonials/Testimonials";
+import Testimonials from "components/Testimonials/Testimonials";
 
 
 // Animation
@@ -35,7 +35,7 @@ function App() {
       <Home />
       <Services services={ServicesData} />
       <Portfolio projects={PortfolioData} />
-      {/* <Testimonials testimonials={TestimonialsData} /> */}
+      <Testimonials testimonials={TestimonialsData} />
       <Contact />
     </div>
   );

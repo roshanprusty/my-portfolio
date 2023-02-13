@@ -2,7 +2,7 @@ import proj1 from "images/jobfinder.png";
 import proj2 from "images/hotstar.png";
 import proj3 from "images/imdb.png";
 import proj4 from "./images/brandbird.png";
-// import proj5 from "images/groc_bud.PNG";
+import proj5 from "images/imdb.png";
 // import proj6 from "images/brandbird.PNG";
 
 
@@ -17,15 +17,15 @@ const PortfolioData = [
   },
   {
     id: 2,
-    title: "Hotstar clone",
-    tagline: "Hotstar Clone with React JS",
+    title: "E-commerce website",
+    tagline: "",
     liveUrl: "",
     repositoryUrl: "https://github.com/roshanprusty/Hotstar-clone",
     image: proj2,
   },
   {
     id: 3,
-    title: "IMDB",
+    title: "IMDB Replica",
     tagline: "Imdb Clone with React JS",
     liveUrl: "https://imdb-rnp.netlify.app/",
     repositoryUrl: "https://github.com/roshanprusty/IMDB",
@@ -34,21 +34,21 @@ const PortfolioData = [
 
   {
     id: 4,
-    title: "Airbnb Experince",
+    title: "Airbnb Replica",
     tagline: "Airbnb Experince with React JS",
     liveUrl: "",
     repositoryUrl: "https://github.com/roshanprusty/Airbnb-clone",
     image: proj4,
   },
   
-  // {
-  //   id: 5,
-  //   title: "GROCERY-BUD-APP",
-  //   tagline: "TO DO LIST with ReactJs Also Used Local Storage",
-  //   liveUrl: "https://m-junaid95.github.io/Grocery-Bud-React-js/",
-  //   repositoryUrl: "https://github.com/m-junaid95/Grocery-Bud-React-js",
-  //   image: proj5,
-  // },
+  {
+    id: 5,
+    title: "Catch-up",
+    tagline: "platform that allows users to connect with video",
+    liveUrl: "https://m-junaid95.github.io/Grocery-Bud-React-js/",
+    repositoryUrl: "https://github.com/roshanprusty/catch-up",
+    image: proj5,
+  },
   
   // {
   //   id: 6,

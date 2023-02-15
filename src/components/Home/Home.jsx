@@ -10,6 +10,10 @@ import { motion } from "framer-motion";
 // CSS
 import "./home.css";
 
+//SocialMedia
+// import './../SocialMedia/SocialMedia';
+// import SocialMedia from "./../SocialMedia/SocialMedia";
+
 const contentVariants = {
   initial: {
     translateX: "-100vw",
@@ -58,6 +62,7 @@ const Home = () => {
       >
         <img src={man} alt="Developer" />
       </motion.div>
+      
     </section>
   );
 };

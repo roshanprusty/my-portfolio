@@ -12,7 +12,7 @@ import Portfolio from "components/Portfolio/Portfolio";
 import Contact from "components/Contact/Contact";
 import Services from "components/Services/Services";
 import Testimonials from "components/Testimonials/Testimonials";
-
+// import SocialMedia from "components/SocialMedia/SocialMedia";
 
 // Animation
 import Aos from "aos";

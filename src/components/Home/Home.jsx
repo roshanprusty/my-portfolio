@@ -40,7 +40,7 @@ const Home = () => {
         animate="animate"
       >
         <h1>I’m Roshan</h1>
-        <p>I am a Frontend Web devloper and Freelancer. </p>
+        <p>I am a Full-stack developer and Freelancer. </p>
         <Link
           className="home-btn"
           to={"portfolio"}

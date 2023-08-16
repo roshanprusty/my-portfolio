@@ -28,7 +28,7 @@ const PortfolioData = [
     id: 4,
     title: "Youtube Replica",
     tagline: "Youtube Experince with React JS",
-    liveUrl: "",
+    liveUrl: "https://youtube-replica-rnp.netlify.app/",
     repositoryUrl: "https://github.com/roshanprusty/Youtube-replica",
     image: proj4,
   },
